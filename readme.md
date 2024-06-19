@@ -15,4 +15,7 @@ specific ServiceAccount in a given namespace in a Kubernetes cluster.
 - **kubectl get secret**: list secrets stored in a kubernetes cluster.
 - **kubectl port-forward**: Forward one or more local ports to a pod
 - **kubectl get pods**: gets the pods as resources (works with kubectl command)
-- 
+
+- Learned to manage Kubernetes secrets, which will be used way more frequently whether with ML
+projects, data engineering projects or DevSecOps projects
+- Learned difference between pods, nodes and clusters
